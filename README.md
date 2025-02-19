@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alp Akay</h1>
-<h3 align="center">A computer science 2nd grade student in Kocaeli University from Turkey</h3>
+<h3 align="center">A computer science 3rd grade student in Kocaeli University from Turkey</h3>
 
-- 🌱 I’m currently learning **Unity and Databases.**
+- 🌱 I’m currently learning **Android Development with React Native.**
 
 - 📫 How to reach me **ahmeta3557@gmail.com**
 
